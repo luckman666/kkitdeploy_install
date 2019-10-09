@@ -1,6 +1,7 @@
 #kkitdeploy安装部署
 
 git clone https://github.com/luckman666/kkitdeploy_install.git
+
 cd kkitdeploy_install && chmod 755 -R .
 
 # 修改base.config里面的参数
