@@ -3,7 +3,7 @@
 ```
 git clone https://github.com/luckman666/kkitdeploy_install.git
 cd kkitdeploy_install && chmod 755 -R .
-# 修改base.config里面的参数
+# 修改base.config里面的参数如果您需要上公网的话需要masterip="192.168.1.118"需要填写公网地址
 ./kkitdeploy.sh
 ```
 
