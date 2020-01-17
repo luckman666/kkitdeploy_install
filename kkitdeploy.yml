@@ -4,7 +4,7 @@ volumes:
   deploy-script:
 services:
   kkitdeploy:
-    image: registry.cn-hangzhou.aliyuncs.com/yangb/kkitdeploy
+    image: registry.cn-hangzhou.aliyuncs.com/yangb/kkitdeploy:v1.0
     container_name: kkitdeploy
     hostname: kkitdeploy
     privileged: true
